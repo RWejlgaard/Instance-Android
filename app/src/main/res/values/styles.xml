@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="LoginTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">#252525</item>
+        <item name="colorAccent">#BE1707</item>
+        <item name="colorPrimary">#252525</item>
+        <item name="android:background">#252525</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textColorHint">#FFFFFF</item>
+        <item name="android:editTextColor">#FFFFFF</item>
+    </style>
+
+</resources>
